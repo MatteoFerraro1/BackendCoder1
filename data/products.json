@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"title": "Product 1",
+		"description": "A simple product one",
+		"code": "A1",
+		"price": 260,
+		"status": true,
+		"stock": 14,
+		"category": "Products"
+	},
+	{
+		"id": 2,
+		"title": "Product 2",
+		"description": "A simple product two",
+		"code": "A2",
+		"price": 160,
+		"status": true,
+		"stock": 12,
+		"category": "Products"
+	},
+	{
+		"id": 3,
+		"title": "Product 3",
+		"description": "A simple product three",
+		"code": "A3",
+		"price": 40,
+		"status": true,
+		"stock": 6,
+		"category": "Products"
+	},
+	{
+		"id": 4,
+		"title": "Product 4",
+		"description": "A simple product three",
+		"code": "A3",
+		"price": 300,
+		"status": true,
+		"stock": 8,
+		"category": "Products"
+	},
+	{
+		"id": 5,
+		"title": "Product 5",
+		"description": "A simple product five",
+		"code": "A4",
+		"price": 400,
+		"status": true,
+		"stock": 16,
+		"category": "Products"
+	}
+]
