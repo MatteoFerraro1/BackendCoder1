@@ -44,7 +44,6 @@ router.post('/', (req, res) => {
         res.json(products); 
 } 
 )
-
 router.put('/:pid', (req, res) => {
     const { pid } = req.params;
     const { title, description, code, price, stock, category } = req.body;
@@ -68,7 +67,6 @@ router.put('/:pid', (req, res) => {
         }
     }
 })
-
 router.delete('/:pid', async (req, res) => {
     const { pid } = req.params;
     const productIndex = products.findIndex(product => product.id == pid)
